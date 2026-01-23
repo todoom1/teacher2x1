@@ -1,149 +1,83 @@
+var stz = "aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTgmdG9wSWQ9ODAzNDImc2VsZlBsYW5JZD02OTUxMw==";
+var dfz = "aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMwJnRvcElkPTQyOTQy";
+var yhz = "aHR0cHM6Ly9nZnZneC5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD04MDAmcHQ9RjVFRTBBQzAtOUE5MC05NzM3LTgxOTMtMUVBQzg5QjM3MTE0";
+var ztz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMxJnRvcElkPTEzOTE3Ng==";
+var wdz = "aHR0cHM6Ly9vbmtyY3kuaGVmYXNoaXAuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDIwJnRvcElkPTI5MjYxMTM=";
+var cfz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTM5NTAy";
+var yw28z = "aHR0cHM6Ly93Y3d4LnBhcmFkaXNlbWFsbC5uZXQvYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwMTcmdG9wSWQ9NDIzNDc3MA==";
+var ffz = "aHR0cHM6Ly9iYWttcnkuZ3ppYXN0aS5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTAmdG9wSWQ9Mzk2OTc4JnNlbGZQbGFuSWQ9Mjc4ODE4";
+var t1z = "aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTU1NTcxNA==";
+var c7z = "aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q=";
+var ngz = "aHR0cHM6Ly8xNTYuMjM0LjEuMTMxOjg4NjYvIy9saW5rP2FsbHdpbj0xMTA0MjcwMA==";
+
+var stx = atob(stz);
+var dfx = atob(dfz);
+var yhx = atob(yhz);
+var ztx = atob(ztz);
+var wdx = atob(wdz);
+var cfx = atob(cfz);
+var yw28x = atob(yw28z);
+var ffx = atob(ffz);
+var t1x = atob(t1z);
+var c7x = atob(c7z);
+var ngx = atob(ngz);
+
 document.getElementById('st').addEventListener('click', function() {
-  window.location.href = "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=80342&selfPlanId=69513";
+window.open(stx, '_blank');
 });
 document.getElementById("df").addEventListener("click", function() {
-  window.location.href = "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=42942";
+window.open(dfx, '_blank');
 });
 document.getElementById("zt").addEventListener("click", function() {
-  window.location.href = "https://pkajim.hfjcl.com/app/register.php?site_id=1031&topId=139176";
+window.open(ztx, '_blank');
 });
 document.getElementById("yh").addEventListener("click", function() {
-  window.location.href = "https://gfvgx.jgqvji.com/app/register.php?site_id=800&pt=F5EE0AC0-9A90-9737-8193-1EAC89B37114";
+window.open(yhx, '_blank');
 });
 document.getElementById("wd").addEventListener("click", function() {
-  window.location.href = "https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=2926113";
+window.open(wdx, '_blank');
 });
 document.getElementById("cf").addEventListener("click", function() {
-  window.location.href = "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=39502";
+window.open(cfx, '_blank');
 });
 document.getElementById("yw28").addEventListener("click", function() {
-  window.location.href = "https://wcwx.paradisemall.net/app/register.php?site_id=1017&topId=4234770";
+window.open(yw28x, '_blank');
 });
 document.getElementById("ff").addEventListener("click", function() {
-  window.location.href = "https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=396978&selfPlanId=278818";
+window.open(ffx, '_blank');
 });
 document.getElementById("c7").addEventListener("click", function() {
-  window.location.href = "https://103.39.18.211:7788/#/link?allwin=7QjUEXXksWwa6da6JQE%2Bsg%3D%3D";
+window.open(c7x, '_blank');
 });
 document.getElementById("t1").addEventListener("click", function() {
-  window.location.href = "https://lncqc.jgqvji.com/app/register.php?site_id=1051&topId=555714";
+window.open(t1x, '_blank');
 });
 document.getElementById("ng").addEventListener("click", function() {
-  window.location.href = "https://156.234.1.131:8866/#/link?allwin=11042700";
+window.open(ngx, '_blank');
 });
 
-document.getElementById("0").innerHTML="🔥十年信誉平台推荐";
+document.getElementById("2").innerHTML="🔥十年信誉平台推荐";
 
-document.getElementById("1").innerHTML="壹号娱乐";
+document.getElementById("yhn").innerHTML="壹号娱乐";
 
-document.getElementById("2").innerHTML="非凡国际";
+document.getElementById("ffn").innerHTML="非凡国际";
 
-document.getElementById("3").innerHTML="问鼎娱乐";
+document.getElementById("wdn").innerHTML="问鼎娱乐";
 
-document.getElementById("4").innerHTML="巅峰国际";
+document.getElementById("dfn").innerHTML="巅峰国际";
 
-document.getElementById("5").innerHTML="征途国际";
+document.getElementById("ztn").innerHTML="征途国际";
 
-document.getElementById("6").innerHTML="超凡国际";
+document.getElementById("cfn").innerHTML="超凡国际";
 
-document.getElementById("7").innerHTML="C7";
+document.getElementById("c7n").innerHTML="C7";
 
-document.getElementById("8").innerHTML="南宫国际";
+document.getElementById("ngn").innerHTML="南宫国际";
 
-document.getElementById("9").innerHTML="Top1体育";
+document.getElementById("t1n").innerHTML="Top1体育";
 
-document.getElementById("10").innerHTML="亿万28";
+document.getElementById("yw28n").innerHTML="亿万28";
 
-document.getElementById("11").innerHTML="胜天国际";
+document.getElementById("stn").innerHTML="胜天国际";
 
-document.getElementById("12").innerHTML="PG模拟器";
-
-document.getElementById("13").innerHTML="PP模拟器";
-
-document.getElementById("14").innerHTML="JBD模拟器";
-
-document.getElementById("15").innerHTML="MG模拟器";
-
-document.getElementById("16").innerHTML="AP模拟器";
-
-document.getElementById("17").innerHTML="BBIN模拟器";
-
-document.getElementById("18").innerHTML="PS模拟器";
-
-document.getElementById("19").innerHTML="棋牌模拟器";
-
-document.getElementById("20").innerHTML="cg模拟器";
-
-document.getElementById("21").innerHTML="R88模拟器";
-
-document.getElementById("22").innerHTML="CQ9模拟器";
-
-document.getElementById("23").innerHTML="KA模拟器";
-
-document.getElementById("24").innerHTML="GR模拟器";
-
-document.getElementById("25").innerHTML="百家乐模拟器";
-
-document.getElementById("26").innerHTML="体育模拟器";
-
-document.getElementById("27").innerHTML="彩票模拟器";
-
-document.getElementById("28").innerHTML="爆庄秘籍";
-
-document.getElementById("29").innerHTML="财神捕鱼";
-
-document.getElementById("30").innerHTML="五龙捕鱼";
-
-document.getElementById("31").innerHTML="金爆鱼场";
-
-document.getElementById("32").innerHTML="星际捕鱼";
-
-document.getElementById("33").innerHTML="欢乐捕鱼";
-
-document.getElementById("34").innerHTML="一炮捕鱼";
-
-document.getElementById("35").innerHTML="皇金渔场";
-
-document.getElementById("36").innerHTML="皇金渔场2";
-
-document.getElementById("37").innerHTML="欧易";
-
-document.getElementById("51").innerHTML="币安";
-
-document.getElementById("38").innerHTML="虚拟币入门";
-
-document.getElementById("39").innerHTML="狗狗云vpn";
-
-document.getElementById("40").innerHTML="杜卡迪vpn";
-
-document.getElementById("41").innerHTML="大麦VPN";
-
-document.getElementById("42").innerHTML="今日要闻";
-
-document.getElementById("43").innerHTML="海外ID";
-
-document.getElementById("44").innerHTML="软件大全";
-
-document.getElementById("45").innerHTML="短信接码";
-
-document.getElementById("46").innerHTML="jable";
-
-document.getElementById("47").innerHTML="youporn";
-
-document.getElementById("48").innerHTML="njav";
-
-document.getElementById("49").innerHTML="pornhub";
-
-document.getElementById("50").innerHTML="Airav";
-
-document.getElementById("52").innerHTML="🔥PG模拟器大全";
-
-document.getElementById("53").innerHTML="捕鱼模拟器";
-
-document.getElementById("54").innerHTML="虚拟币";
-
-document.getElementById("55").innerHTML="其他分享&VPN-开VPN可进蓝名";
-
-document.getElementById("56").innerHTML="如遇本站功能无法正常使用，请点击下载注册狗狗云VPN，即可突破网络封锁正常使用";
-
-document.getElementById("57").innerHTML="PG777.LOL";
+document.getElementById("1").innerHTML="PG777.LOL";
