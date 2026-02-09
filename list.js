@@ -81,3 +81,19 @@ document.getElementById("yw28n").innerHTML="亿万28";
 document.getElementById("stn").innerHTML="胜天国际";
 
 document.getElementById("1").innerHTML="PG777.LOL";
+const texts = ["祝您新年快乐！", "马到成功", "PG777.LOL"];
+const today = new Date();
+const month = today.getMonth() + 1;
+const date = today.getDate();
+let currentIndex = 0;
+
+if (month === 2 && date === 17) {
+    alert("🎇祝您新年快乐！🎇"); 
+setInterval(() => {
+document.getElementById("1").innerHTML = texts[currentIndex];
+currentIndex = (currentIndex + 1) % texts.length;
+}, 2026);
+
+} else if (month === 3 && date === 3) {
+    alert("🎇祝您元宵节快乐！🎇");
+}
