@@ -7,7 +7,7 @@ var cfz = "aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xM
 var yw28z = "aHR0cHM6Ly93Y3d4LnBhcmFkaXNlbWFsbC5uZXQvYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwMTcmdG9wSWQ9NDIzNDc3MA==";
 var ffz = "aHR0cHM6Ly9iYWttcnkuZ3ppYXN0aS5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTAmdG9wSWQ9Mzk2OTc4JnNlbGZQbGFuSWQ9Mjc4ODE4";
 var t1z = "aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTU1NTcxNA==";
-var c7z = "aHR0cHM6Ly8xMDMuMzkuMTguMjExOjc3ODgvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q=";
+var c7z = "aHR0cHM6Ly8zOC4xODEuMjMuMjU6NjAwMDUvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q=";
 var ngz = "aHR0cHM6Ly8xNTYuMjM0LjEuMTMxOjg4NjYvIy9saW5rP2FsbHdpbj0xMTA0MjcwMA==";
 
 var stx = atob(stz);
@@ -55,11 +55,18 @@ window.open(t1x, '_blank');
 document.getElementById("ng").addEventListener("click", function() {
 window.open(ngx, '_blank');
 });
+document.getElementById("xsd").addEventListener("click", function() {
+window.open(atob("aHR0cHM6Ly9kZXJlYXIuZm5icHN3LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA1OSZ0b3BJZD0xODgzNTAyJnNlbGZQbGFuSWQ9MTQ4NzYyNA=="), '_blank');
+});
+document.getElementById("jl").addEventListener("click", function() {
+window.open(atob("aHR0cHM6Ly90ZmFqbi5oY2p3ai5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTIwODEmdG9wSWQ9MjM4MTA1NyZzZWxmUGxhbklkPTIxMTM0NDg="), '_blank');
+});
 
 document.getElementById("2").innerHTML="🔥十年信誉平台推荐";
 
 document.getElementById("yhn").innerHTML="壹号娱乐";
-
+document.getElementById("xsdn").innerHTML="新时代";
+document.getElementById("jln").innerHTML="君临国际";
 document.getElementById("ffn").innerHTML="非凡国际";
 
 document.getElementById("wdn").innerHTML="问鼎娱乐";
