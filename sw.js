@@ -37,7 +37,7 @@ const PRECACHE = [
   '/svg/you.svg',
   '/svg/njav.svg',
   '/svg/phub.svg',
-  '/png/air.png',
+  '/png/air.png'
   
 
   // ... 其他资源
