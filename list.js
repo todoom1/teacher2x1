@@ -13,7 +13,7 @@
 {img: './png/ffyl.png', name: '非凡国际', xurl: 'aHR0cHM6Ly9iYWttcnkuZ3ppYXN0aS5jb20vYXBwL3JlZ2lzdGVyLnBocD9zaXRlX2lkPTEwNTAmdG9wSWQ9Mzk2OTc4JnNlbGZQbGFuSWQ9Mjc4ODE4'},
 {img: './png/c7.png', name: 'C7', xurl: 'aHR0cHM6Ly8zOC4xODEuMjMuMjU6NjAwMDUvIy9saW5rP2FsbHdpbj03UWpVRVhYa3NXd2E2ZGE2SlFFJTJCc2clM0QlM0Q='}, 
 {img: './png/top1.png', name: 'Top1体育', xurl: 'aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTU1NTcxNA=='},
-{img: './png/ng.png', name: '南宫国际', xurl: 'aHR0cHM6Ly8xNTYuMjM0LjEuMTMxOjg4NjYvIy9saW5rP2FsbHdpbj0xMTA0MjcwMA=='}
+{img: './png/ng.png', name: '南宫国际', xurl: 'aHR0cHM6Ly8xNDkuMzAuMTYzLjIzNTozMjAxMS8jL2xpbms/YWxsd2luPVVnS1BTQWl5U0oxOFlROFRyNjhreXclM0QlM0Q='}
     ];
 
     var container = document.getElementById('xapes');
